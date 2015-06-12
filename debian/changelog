@@ -1,3 +1,9 @@
+sipauthserve-public (5.0.1) unstable; urgency=medium
+
+  * Upgrades NodeManager to fae5611 
+
+ -- Matt Ball <matt@endaga.com>  Fri, 12 Jun 2015 23:09:44 +0000
+
 sipauthserve-public (5.0) unstable; urgency=low
 
   * Test
