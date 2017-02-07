@@ -1,12 +1,12 @@
 [submodule "CommonLibs"]
 	path = CommonLibs
-	url = git@github.com:endaga/CommonLibs.git
+	url = https://github.com/endaga/CommonLibs.git
 	branch = master
 [submodule "sqlite3"]
 	path = sqlite3
-	url = git@github.com:RangeNetworks/sqlite3.git
+	url = https://github.com/RangeNetworks/sqlite3.git
 	branch = master
 [submodule "NodeManager"]
 	path = NodeManager
-	url = git@github.com:endaga/NodeManager.git
+	url = https://github.com/endaga/NodeManager.git
 	branch = master
